@@ -1,0 +1,23 @@
+.sfondo{
+background-image: url("https://static.alpitour.it/.imaging/default/dam/alpitour/offerte/2022/tour/wide/1920x600_wide_tour_offerte.jpg/jcr:content.jpg");
+width: 100%;
+height: 400px;
+}
+
+nav img{
+    width: 200px;
+    height: 100px;
+}
+.user{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+}
+.welcom img{
+  width: 100%;  
+  height: 300px;
+}
+.list{height: 300px;}
+.im{
+  height: 300px;
+}
